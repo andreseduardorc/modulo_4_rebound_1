@@ -1,0 +1,30 @@
+.gradiente {
+    background-image: linear-gradient(to right, #e05f5f, #c002f4);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 600;
+  }
+  .gradiente_1 {
+    background-image: linear-gradient(to right, #da7676, #0202f4);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 600;
+  }
+  .gradiente_2 {
+    background-image: linear-gradient(to right, #e05f5f, #150f98);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: 600;
+  }
+
+  .input_line {
+    border: none;
+    background-image: linear-gradient(to right, #d24a4a, #1950c8);
+    background-position: bottom;
+    background-size: 100% 1px;
+    background-repeat: no-repeat;
+    outline: none;
+}
